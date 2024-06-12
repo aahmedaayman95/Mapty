@@ -1,0 +1,9 @@
+# files and folders that we want to ignore
+
+
+node_modules
+dist
+FinalBuildFolder
+.parcel-cache# files and folders that we want to ignore
+
+
